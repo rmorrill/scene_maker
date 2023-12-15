@@ -6,12 +6,20 @@ Based on trimesh and pyrender Python toolboxes
 ![test_taxi_glove_apple_sunglasses_cross_grid_grayBG](https://github.com/rmorrill/scene_maker/assets/11153068/4ad867e3-3e40-4564-baa5-265b948edc5e)
 
 Dependencies: 
+
 pyrender 
+
 trimesh 
+
 numpy
+
 cv2
+
 matplotlib
+
 PIL
+
 json
+
 
 Full readme coming soon!
